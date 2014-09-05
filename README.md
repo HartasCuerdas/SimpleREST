@@ -2,4 +2,11 @@
 
 SimpleREST service app
 
-[pnp repository on github](https://github.com/HartasCuerdas/SimpleREST)
+Express
+
+Mongoose
+Mongodd
+
+CORS
+
+[SimpleREST repository on github](https://github.com/HartasCuerdas/SimpleREST)
