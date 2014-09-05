@@ -1,0 +1,27 @@
+{
+  "name": "SimpleREST",
+  "version": "0.0.1",
+  "description": "SimpleREST",
+  "author": "Franco Cedillo <franco.cedillo@gmail.com> http://adagio.github.io",
+  "keywords": [
+    "angular",
+    "webapp",
+    "boilerplate",
+    "gulp",
+    "javascript"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/HartasCuerdas/SimpleREST/blob/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HartasCuerdas/SimpleREST"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cors": "^2.4.1",
+    "express": "^4.8.7",
+    "mongoose": "^3.8.15"
+  }
+}
